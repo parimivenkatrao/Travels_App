@@ -1,0 +1,1 @@
+Overview The bookings Django app implements a simple bus booking system. It includes models for Bus, Seat, and Booking, serializers for API input/output, views for registering/logging in users and creating/listing buses and bookings, and a signals handler to auto-create seats when a bus is created.
